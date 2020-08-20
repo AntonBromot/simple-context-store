@@ -1,0 +1,5 @@
+export const ADD_NOTE = 'ADD_NOTE'
+export const FETCH_NOTES = 'FETCH_NOTES'
+export const FETCH_NOTES_SUCCESS = 'FETCH_NOTES_SUCCESS'
+export const FETCH_NOTES_ERROR = 'FETCH_NOTES_ERROR'
+export const REMOVE_NOTE = 'REMOVE_NOTE'
